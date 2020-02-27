@@ -1,7 +1,7 @@
 {
-  "name": "react-native-icloudstore",
+  "name": "react-native-icloud-key-value-store",
   "version": "1.0.0",
-  "description": "iCloud ubiquitous key-value store for Reac Native",
+  "description": "iCloud ubiquitous key-value store for React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
