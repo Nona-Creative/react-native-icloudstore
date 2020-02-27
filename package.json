@@ -1,6 +1,6 @@
 {
   "name": "react-native-icloud-key-value-store",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "iCloud ubiquitous key-value store for React Native",
   "main": "index.js",
   "scripts": {
