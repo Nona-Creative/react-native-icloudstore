@@ -1,5 +1,5 @@
 /**
- * @providesModule react-native-icloudstore
+ * @providesModule react-native-icloud-key-value-store
  */
 
 import { AsyncStorage, NativeModules, Platform } from 'react-native';
